@@ -51,5 +51,3 @@ Includes:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cbit-placement-analysis.git
-cd cbit-placement-analysis
