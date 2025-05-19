@@ -25,7 +25,7 @@ The dataset includes:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Python** 
 - **Pandas** 
@@ -40,14 +40,4 @@ Includes:
 - Line charts showing yearly placement trends
 - Bar graphs of department-wise placements
 - Pie charts for recruiter contributions
-- Heatmaps and more for in-depth comparison
-
-> All visuals are generated using clean, modular Python scripts and exported as PNG/SVG where needed.
-
----
-
-## Getting Started
-
-### 1. Clone the repository
-
 ```bash
